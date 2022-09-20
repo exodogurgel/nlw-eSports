@@ -4,8 +4,9 @@
 <p align="center">
   <a href="#-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-tech">Tech Stack</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#How it works">How it works</a>
+    <a href="#-tech-stack">Tech Stack</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-it-works">How it works</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
+  <a href="#-license">License</a>
 </p>
 
 ## 💻 About
@@ -66,10 +67,10 @@ In addition, it is good to have an editor to work with the code like [VSCode] (h
 ```bash
 
 # Clone this repository
-$ git clone git
+$ git clone git@github.com:exodogurgel/nlw-eSports.git
 
 # Access the project folder cmd/terminal
-$ cd nlw-esports
+$ cd nlw-eSports
 
 # go to the server folder
 $ cd server
@@ -93,10 +94,10 @@ $ npm run dev:server
 ```bash
 
 # Clone this repository
-$ git clone 
+$ git clone git@github.com:exodogurgel/nlw-eSports.git
 
 # Access the project folder in your terminal
-$ cd nlw-esports
+$ cd nlw-eSports
 
 # Go to the Front End application folder
 $ cd web
